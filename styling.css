@@ -17,11 +17,19 @@ h1 {
             background-color: rgb(47,79,79);
             
             
+            
                         width: 800px;
                         height: 1000px;
                         Margin-left: auto;
                         Margin-right: auto;
                         margin-top: 50px;
+            
+   #heading {         
+            
+            background-img: url("https://www.bing.com/images/blob?bcid=TsuuOI.w8csDWc5cC8h3WI434fL3.....30");
+            padding: 100px;
+            margin: 100px;
+}
                         
            
             }
