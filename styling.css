@@ -13,11 +13,12 @@ div {
             background-color: rgb(47,79,79);
             
             #heading{
-                        width: 500px;
-                        height: 1200px;
+                        width: 700px;
+                        height: 1000px;
                         Margin-left: auto;
                         Margin-right: auto;
-                        {border:100px solid #000000;
+            }
+                        
             
          #header{
                       width: 500px;
