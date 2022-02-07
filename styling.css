@@ -21,7 +21,7 @@ h1 {
                         
            
             }
-#heading"><img src="https://www.bing.com/images/blob?bcid=TnnoiM62ScoDWc5cC8h3WI434fL3.....ww" alt="the banner for CSC" width="800">
+#heading{ <img src="https://www.bing.com/images/blob?bcid=TnnoiM62ScoDWc5cC8h3WI434fL3.....ww" alt="the banner for CSC" width="800">
                         
             
          #header{
@@ -32,4 +32,5 @@ h1 {
                         float: center;
                      
                                     }
+#writing { background-color: white;
 
