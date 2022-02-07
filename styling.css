@@ -9,10 +9,10 @@ h1 {
             background-color: black;
                    
         }
-div {
+#heading { 
             background-color: rgb(47,79,79);
             
-            #heading{
+            
                         width: 700px;
                         height: 1000px;
                         Margin-left: auto;
