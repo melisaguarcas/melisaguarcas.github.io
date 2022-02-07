@@ -8,11 +8,12 @@ h1 {
         body {
             background-color: black;
                     border-spacing: 50px;
-                    boardr-color: orange;
+                    border-color: orange;
                    
         }
 #thebottons { width:800px; 
             height: 30px;
+            border-color: red;
 }
 }
 
