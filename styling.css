@@ -9,7 +9,7 @@ h1 {
             background-color: black;
                    
         }
-div {border:100px solid #000000;
+div {
             background-color: rgb(47,79,79);
             
             #heading{
@@ -17,5 +17,6 @@ div {border:100px solid #000000;
                         height: 1200px;
                         Margin-left: auto;
                         Margin-right: auto;
+                        {border:100px solid #000000;
             }
 
