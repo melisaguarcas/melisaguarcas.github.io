@@ -9,8 +9,10 @@ h1 {
             background-color: black;
                    
         }
-#the-head {background-color: white;
+#darkimg {
+            width:1000px;
 }
+
 #heading { 
             background-color: rgb(47,79,79);
             
@@ -31,7 +33,7 @@ h1 {
                         height: 1000px;
                         Margin-left: auto;
                         Margin-right: auto;
-                        float: center;
+                        
                      
                                     }
 
