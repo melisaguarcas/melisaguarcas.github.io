@@ -8,9 +8,7 @@ h1 {
         body {
             background-color: black;
                     border-spacing: 50px;
-                    Margin-left: auto;
-                        Margin-right: auto;
-                        margin-top: 50px;
+                   
                    
         }
 #thebottons { width:800px; 
@@ -51,6 +49,9 @@ h1 {
                      
                                     }
 #writing { background-color: red;
+             Margin-left: auto;
+                        Margin-right: auto;
+                        margin-top: 50px;
 }
 
 
