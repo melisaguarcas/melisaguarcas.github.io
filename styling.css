@@ -6,9 +6,9 @@ h1 {
             color: rgb(	240,248,255);}
 
         body {
-            background-color: rgb(47,79,79);
+            background-color: black;
                    
         }
 div {border:3px solid #000000;
-            background-color: red;
+            background-color: rgb(47,79,79);
 
