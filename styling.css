@@ -50,7 +50,7 @@ h1 {
                         
                      
                                     }
-#writing { background-color: red;
+#writing { background-color: rgb(47,79,79);
             width: 800px;
             height: 1000px; 
            Margin-left: auto;
@@ -64,7 +64,7 @@ h1 {
 #content {Margin-left: auto;
             Margin-right: auto;}
 
-#table {background-color: brown;
+#table {background-color: rgb(100,48,0);
             width: 800px;
             height: 40px;
 }
