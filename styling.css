@@ -52,8 +52,8 @@ h1 {
                                     }
 #writing { background-color: red;
             height: 1000px; 
-            Margin-left: 500;
-                        Margin-right: 500;
+           Margin-left: auto;
+            Margin-right: auto;
                         margin-top: 50px;
 }
 
