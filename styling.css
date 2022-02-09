@@ -54,7 +54,8 @@ h1 {
             height: 800px;
             right: 7px;
 }
-#photos {margin-right:200px;
+#photos { float:center;
+            
 }
             
 
